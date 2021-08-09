@@ -20,3 +20,6 @@
     branch é uma ramificação de projetos
 
 <h3>git checkout -b "nome da branch"</h3>
+
+
+<h3>Juntar as branchs</h3> git merge + nome da branch
