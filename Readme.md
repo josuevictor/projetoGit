@@ -15,3 +15,7 @@
 
 <h3>git push -u origin main</h3> manda o reposit pro git.
 
+
+<h3>O que é uma brach</h3>
+
+<h3>git checkout -b "nome da branch"</h3>
